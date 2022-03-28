@@ -183,7 +183,7 @@
   "how_do_on_chain_transactions_work_description": "If you’re sending funds to a Stellar Address it means that the transaction will be broadcasted to the Stellar Network.\n\nThere is usually a small network fee in XLM that will either be passed on to you as the user, or be absorbed by the organization.\n\nYou’ll be notified if the fee will be applied to your XLM account or not.\n\nYou’ll also be able to copy and/or click on the transaction hash to view the transaction chain details after it is broadcasted to the network.\n\nIt is important to note that on chain transactions can’t be reversed.",
 
   "this_may_take_a_while_to_load": "This may take a while to load...",
-  "wyre_helper_text": "You will be redirected to **Wyre** to complete your purchase securely.\n\nPlease do not refresh the page or click the “Back” button of your browser.\n\nYou will need to go through a KYC.\n**Please prepare your card details, billing address, email andphone number**",
+  "wyre_helper_text": "You will be redirected to **Wyre** to complete your purchase securely.\n\nPlease do not refresh the page or click the “Back” button of your browser.\n\nYou will need to go through a KYC.\n**Please prepare your card details, billing address, email and phone number**",
   "continue_to_wyre": "Continue to Wyre",
 
   "expired_quote_message": "This quote has expired",
